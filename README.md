@@ -4,6 +4,8 @@ Cada cerveja custa 5 reais, cada refrigerante 3 reais e cada espetinho custa 7 r
 espetinhos consumidos. O programa deve então mostrar um relatório com a conta a ser paga pelo cliente. Para resolver o problema, você deve criar uma classe conforme projeto ao
 lado.
 
+##
+
 ![Exemplos](https://i.imgur.com/0HGenDH.png)
 
 ## Realização
